@@ -6,7 +6,7 @@ title:  Vagrant resize box
 date:   2022-11-14 13:32:20 -0600
 description: Vagrant resize box for vagrant
 img: assets/img/posts/20210125/Perceptron.jpg 
-tags: [machine learning, coding, neural networks]
+tags: [vagrant,wsl]
 author: Miguel García Domínguez
 github:  MGDSoft/blog/
 mathjax: yes
