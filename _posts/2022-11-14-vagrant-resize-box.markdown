@@ -13,12 +13,16 @@ mathjax: yes
 ---
 
 If you want to resize your vaggrant box you have to follow this simple steps:
-    
+
+```bash
     VBoxManage.exe clonehd "C:\Users\maka5\VirtualBox VMs\seco-start-2_dev_1668463064644_25176\box.vmdk" "C:\Users\maka5\VirtualBox VMs\seco-start-2_dev_1668463064644_25176\out.vdi" --format VDI
     VBoxManage.exe modifyhd "C:\Users\maka5\VirtualBox VMs\seco-start-2_dev_1668463064644_25176\out.vdi" --resize 40360
-    
+```
+
 go inside the vagrant box and 
 
+```bash
     resize2fs /dev/device 
+```
     
     
