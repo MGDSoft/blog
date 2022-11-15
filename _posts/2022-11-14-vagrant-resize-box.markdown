@@ -5,7 +5,7 @@ show_date: true
 title:  Vagrant resize box 
 date:   2022-11-14 13:32:20 -0600
 description: Vagrant resize box for vagrant
-img: assets/img/posts/vagrant-logo.png
+img: vagrant-logo.png
 tags: [vagrant,wsl]
 author: Miguel García Domínguez
 github:  MGDSoft/blog/
