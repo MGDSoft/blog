@@ -26,8 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: MGDSoft # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
-
+about-author: I have been working as a developer since 2008, I mainly work with the PHP language for backend development, but in the majority of cases I work as a Fullstack developer (creating schema DB, frontend, backend code and also related to the infrastructure). I am very passionate about coding and I am always searching for new technologies to improve my coding speed, the quality of it and also for fun.
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
