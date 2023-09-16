@@ -6,7 +6,7 @@ title:  Compress input file images before upload
 date:   2023-09-16 00:01:00 -0600
 description: Compress input file images before upload with javascript
 img: posts/javascript_compress_image.jpg
-tags: [javascript,vanilla]
+tags: [javascript,vanilla,browser-image-compression]
 author: Miguel García Domínguez
 github:  MGDSoft/blog/
 mathjax: yes
@@ -64,3 +64,4 @@ And in the html you have to call the function handleImageUpload when the input f
 ```
 
 Easy peasy lemon squeezy. And please don't forget to buy a coffee to Donaldcwl he is a genious.
+
