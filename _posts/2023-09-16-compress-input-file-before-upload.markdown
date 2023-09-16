@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title:  Compress input file images before upload 
-date:   2022-11-14 13:32:20 -0600
-description: Compress input file images before upload
+title:  Compress input file images before upload
+date:   2023-09-16 00:01:00 -0600
+description: Compress input file images before upload with javascript
 img: posts/javascript_compress_image.jpg
 tags: [javascript,vanilla]
 author: Miguel García Domínguez
